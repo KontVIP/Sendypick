@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "186976962804",
+    "firebase_url": "https://sendypick-da297-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "sendypick-da297",
+    "storage_bucket": "sendypick-da297.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186976962804:android:f522568f8f62b9b57176a1",
+        "android_client_info": {
+          "package_name": "com.kontick.sendypick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186976962804-q7k4e0cepgl8s5qq9i7012244tlre1uo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kontick.sendypick",
+            "certificate_hash": "45ac40a51185bf3242ec9b4d77d3956870429741"
+          }
+        },
+        {
+          "client_id": "186976962804-mg0sb6id27clbst4065ogoe9sb74he96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANUNo0mSxdm4nojoUbY3Ss_ak_S94FuQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186976962804-mg0sb6id27clbst4065ogoe9sb74he96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
